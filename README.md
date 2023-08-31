@@ -1,0 +1,2 @@
+# MagazineHashtag
+ Intensivão de JavaScript
